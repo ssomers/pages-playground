@@ -1,2 +1,5 @@
-# pages-playground-
-experimenting with github pages
+one
+![caption](a.svg)
+two
+<iframe src="b.svg"></iframe>
+three
